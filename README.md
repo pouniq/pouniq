@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![941010_ra504](https://github.com/user-attachments/assets/1bbcef50-f69a-450f-9319-79e37f5dfb34)|200
+![941010_ra504](https://github.com/user-attachments/assets/1bbcef50-f69a-450f-9319-79e37f5dfb34 | width = 100)
 
 - 🔭 I’m currently working on Regression Models
