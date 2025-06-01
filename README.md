@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <p align='center'>
-<img width='100' height='100' src='![941010_ra504](https://github.com/user-attachments/assets/1bbcef50-f69a-450f-9319-79e37f5dfb34)'>
+<img width='100' height='100' src=![941010_ra504](https://github.com/user-attachments/assets/1bbcef50-f69a-450f-9319-79e37f5dfb34)>
 </p>
 - 🔭 I’m currently working on Regression Models
