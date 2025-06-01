@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![941010_ra504](https://github.com/user-attachments/assets/1bbcef50-f69a-450f-9319-79e37f5dfb34)
 
-<p align='center'>
-<img width='100' height='100' src=![941010_ra504](https://github.com/user-attachments/assets/1bbcef50-f69a-450f-9319-79e37f5dfb34)>
-</p>
 - 🔭 I’m currently working on Regression Models
+- 🌱 I’m currently learning Data Analysis
+- 😄 Pronouns: .../HIM
+- ⚡ Fun fact: i actually like to watch MMA
