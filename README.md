@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 ![941010_ra504](https://github.com/user-attachments/assets/1bbcef50-f69a-450f-9319-79e37f5dfb34)
 
 - 🔭 I’m currently working on Regression Models
-- 🌱 I’m currently learning Data Analysis
 - 😄 Pronouns: .../HIM
 - ⚡ Fun fact: i actually like to watch MMA
+- i got a website too :> mightwhiteproject.ir
