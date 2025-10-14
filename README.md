@@ -13,17 +13,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## Regression
-- https://github.com/pouniq/MLR_Rasht_housing 
-- https://github.com/pouniq/Life_Expectancy
-## Machine Learning
-- 
-## Time Series
-## Data Analysis
-- https://github.com/pouniq/bigmart-sales
-- https://github.com/pouniq/Students_dataset
-- https://github.com/pouniq/Diabetes_NB
+# Machine Learning
+  ## Regression
+  - https://github.com/pouniq/MLR_Rasht_housing 
+  - https://github.com/pouniq/Life_Expectancy
+  ## Time Series
+  ## Data Analysis
+  - https://github.com/pouniq/bigmart-sales
+  - https://github.com/pouniq/Students_dataset
+  - https://github.com/pouniq/Diabetes_NB
 
 
 
