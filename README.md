@@ -13,11 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Machine Learning
+# Projects (Categorized)
   ## Regression
   - https://github.com/pouniq/MLR_Rasht_housing 
   - https://github.com/pouniq/Life_Expectancy
-  ## Time Series
+<!--  ## Time Series
+-->
   ## Data Analysis
   - https://github.com/pouniq/bigmart-sales
   - https://github.com/pouniq/Students_dataset
