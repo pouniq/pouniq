@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 -->
 
 ## Regression
-- https://github.com/pouniq/MLR_Rasht_housing پروژه رگرسیون املاک رشت
+### پروژه رگرسیون املاک رشت
+  - https://github.com/pouniq/MLR_Rasht_housing 
 - https://github.com/pouniq/Life_Expectancy
 - 
 ## Machine Learning
