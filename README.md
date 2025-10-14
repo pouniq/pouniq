@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **pouniq/pouniq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +13,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![941010_ra504](https://github.com/user-attachments/assets/1bbcef50-f69a-450f-9319-79e37f5dfb34)
 
-- 🔭 I’m currently working on Regression Models
-- 😄 Pronouns: .../HIM
-- ⚡ Fun fact: i actually like to watch MMA
-- i got a website too :> mightwhiteproject.ir
+## Regression
+- https://github.com/pouniq/MLR_Rasht_housing
+- https://github.com/pouniq/Life_Expectancy
+- 
+## Machine Learning
+## Time Series
+## Data Analysis
+- https://github.com/pouniq/bigmart-sales
+
+
+
