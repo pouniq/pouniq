@@ -17,8 +17,9 @@ Here are some ideas to get you started:
   ## Regression
   - https://github.com/pouniq/MLR_Rasht_housing 
   - https://github.com/pouniq/Life_Expectancy
-<!--  ## Time Series
--->
+  ## Time Series
+  - https://github.com/pouniq/OnlineRetail_TimeSeries
+
   ## Data Analysis
   - https://github.com/pouniq/bigmart-sales
   - https://github.com/pouniq/Students_dataset
